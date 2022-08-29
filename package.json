@@ -1,0 +1,17 @@
+{
+  "name": "resizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fiahfy/icns-convert": "^0.0.12",
+    "jimp": "^0.16.1",
+    "png-to-ico": "^2.1.3"
+  }
+}
